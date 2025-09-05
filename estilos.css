@@ -277,7 +277,6 @@ body {
   font-family: monospace;
   animation: aparecer 0.5s ease;
   margin-top: 10px;
-  border: 2px solid red;
 }
 
 @keyframes aparecer {
